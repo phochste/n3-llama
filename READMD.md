@@ -9,3 +9,7 @@ ollama pull tinyllama
 ## Documentation
 
 https://github.com/ollama/ollama/blob/main/docs/tutorials/langchainjs.md
+
+## Storage
+
+Models are stored in /usr/share/ollama/.ollama
